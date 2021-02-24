@@ -1,17 +1,16 @@
 {
 	"name": "fcc-learn-npm-package-json",
-        "author":"Kruti",
-	"description":"This is the part of project in FreeCodeCamp API.",
+	"author": "Kruti",
+	"description": "Added description column for the freeCodeCamp API learning.",
 	"keywords": [
 		"freecodecamp",
 		"API",
-		"package.json"
+		"Learing API from freeCodeCamp"
 	],
 	"license": "MIT",
 	"version": "1.2.0",
 	"dependencies": {
-		"express": "^4.17.1",
-		"moment": "2.14.0"
+		"express": "^4.17.1"
 	},
 	"main": "server.js",
 	"scripts": {
